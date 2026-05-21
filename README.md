@@ -35,17 +35,17 @@
 ### Featured Projects
 
 **Web Projects:**
-- **[Ai Council](https://github.com/YashIsCursed/ai_Emotion_Actions)**
+- **[Ai Council](https://github.com/Yash-Bokade/ai_Emotion_Actions)**
 
 **Final year Project:**
-- **[SwardFall](https://github.com/YashIsCursed/swordfall)**
+- **[SwardFall](https://github.com/Yash-Bokade/swordfall)**
 
 
 **Python Projects:**
-- **[Micro Project](https://github.com/YashIsCursed/Python-Project-Task-Management)**
+- **[Micro Project](https://github.com/Yash-Bokade/Python-Project-Task-Management)**
 
 **Internship Projects:**
-- **[IBase Internship Project](https://github.com/YashIsCursed/Awayspot)**
+- **[IBase Internship Project](https://github.com/Yash-Bokade/Awayspot)**
 
 ---
 

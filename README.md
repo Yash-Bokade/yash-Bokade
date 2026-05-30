@@ -18,7 +18,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 
 **Web Frameworks & Libraries:**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -28,21 +27,23 @@
 *Motion.dev*
 
 **AI & Tools:**
-*Bolt.new, Antigravity (Google), Gemini-CLI, Claude, Kiro*
+*Bolt.new, Antigravity (Google), Gemini-CLI, Claude, Kiro, Stitch, Jules*
 
 ---
 
 ### Featured Projects
 
 **Web Projects:**
+- **[Canvas newTab Extension](https://github.com/Yash-Bokade/infinite-newtab)**
 - **[Ai Council](https://github.com/Yash-Bokade/ai_Emotion_Actions)**
 
 **Final year Project:**
 - **[SwardFall](https://github.com/Yash-Bokade/swordfall)**
 
 
-**Python Projects:**
-- **[Micro Project](https://github.com/Yash-Bokade/Python-Project-Task-Management)**
+**Software Projects:**
+- **[Text to cliCommanda](https://github.com/Yash-Bokade/cliHelper)**
+- **[Python Micro Project](https://github.com/Yash-Bokade/Python-Project-Task-Management)**
 
 **Internship Projects:**
 - **[IBase Internship Project](https://github.com/Yash-Bokade/Awayspot)**

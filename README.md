@@ -53,6 +53,7 @@
 ### Education & Certifications
 
 **Education:**
+- **B.Tech CSE** | *DES Pune University*
 -  **Diploma in Computer Engineering** | *Zeal Polytechnic Pune (2023-2026)*
 
 **Certifications:**
